@@ -1,0 +1,9 @@
+trabalho1sd/servidor/model/Livro.class
+trabalho1sd/cliente/Cliente.class
+trabalho1sd/servidor/database/LivroDAO.class
+trabalho1sd/funcionario/Funcionario.class
+trabalho1sd/servidor/model/Publisher.class
+trabalho1sd/servidor/model/Subscriber.class
+trabalho1sd/servidor/Servidor.class
+trabalho1sd/servidor/database/ConexaoBD.class
+trabalho1sd/servidor/model/PublisherImp.class

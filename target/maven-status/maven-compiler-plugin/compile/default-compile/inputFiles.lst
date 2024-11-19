@@ -1,0 +1,9 @@
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/cliente/Cliente.java
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/funcionario/Funcionario.java
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/servidor/Servidor.java
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/servidor/database/ConexaoBD.java
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/servidor/database/LivroDAO.java
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/servidor/model/Livro.java
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/servidor/model/Publisher.java
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/servidor/model/PublisherImp.java
+/home/gabe/Projetos/Java/Trabalho1-SD/src/main/java/trabalho1sd/servidor/model/Subscriber.java
