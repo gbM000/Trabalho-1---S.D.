@@ -11,7 +11,7 @@ public class ConexaoBD {
     
     public void conectar(){
         try{
-            con = DriverManager.getConnection("jdbc:mysql://localhost/biblioteca","root","everlong");
+            con = DriverManager.getConnection("url","user","password");
             this.sttm = this.con.createStatement();
         }catch(SQLException e){
             System.out.println("Erro: " + e.getMessage());
